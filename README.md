@@ -1,4 +1,4 @@
-# sinatra_hangman
+#Hangman
 
 This project is an app that creates a game of hangman in your web browser. The project was made to learn Sinatra through the [Odin Project](http://www.theodinproject.com/courses/ruby-on-rails/lessons/sinatra-project). The game was coded in Ruby and developed as an app with Sinatra.  
 
